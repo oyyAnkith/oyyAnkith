@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on **AI Clothing Website**
 
-- 🌱 I’m currently learning **Full Stack Development, Python**
-
-- 💬 Ask me about **CSS, REACT, C-Language**
+- 🌱 I’m currently learning **Full Stack Development, AI Frameworks**
 
 - 📫 How to reach me **ancilwrld07@gmail.com**
 
